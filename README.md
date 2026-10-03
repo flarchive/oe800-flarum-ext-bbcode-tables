@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of oe800/flarum-ext-bbcode-tables.** Not for installation: use [Packagist](https://packagist.org/packages/oe800/flarum-ext-bbcode-tables) or the [upstream repository](https://github.com/0E800/flarum-ext-bbcode-tables).
 
-**0** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/oe800-flarum-ext-bbcode-tables/tree/archive/v0.1.0) · Flarum: `^0.1.0-beta.7`
+**1** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/oe800-flarum-ext-bbcode-tables/tree/archive/v0.1.0) · Flarum: `^0.1.0-beta.7`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2018-01-23 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/oe800-flarum-ext-bbcode-tables/tree/archive/v0.1.0) |
 
 Catalog entry: [packages/oe800-flarum-ext-bbcode-tables.json](https://github.com/flarchive/archive-index/blob/main/packages/oe800-flarum-ext-bbcode-tables.json)
 
